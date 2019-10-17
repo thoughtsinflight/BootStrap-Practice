@@ -1,6 +1,7 @@
-.border-top-8{
-    border-width: 8px teal;
-}
-.page-footer{
+footer{
+    position: fixed;
     bottom: 0;
+    width: 100%;
+    border-top: 8px;
+    border-top: teal;
 }
