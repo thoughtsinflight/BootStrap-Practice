@@ -8,25 +8,6 @@ footer{
 .bg-teal{
     background-color: teal;
 }
-@media screen and (max-width: 628px){
-    body{
-        background-color: purple;
-        padding-left: 0%;
-    }
-    h3 {
-        width: 100vw;
-        margin-left: 0%;
-        margin-right: 0%;
-        padding-top: 3vh;
-        padding-bottom: 3vh;
-    }
-    .nav{
-        justify-content: center;
-    }
-    .container{
-        margin-left: 0%;
-        margin-right: 0%;
-    }
-   
-
+body{
+    background-image: url(../image/criss-cross.png);
 }
