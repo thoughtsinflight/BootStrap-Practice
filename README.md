@@ -8,4 +8,4 @@
 # Conclusion
     I really struggled with this project at first, but when I made the breakthrough, putting together the pages was pretty easy and the innate responsiveness of bootstrap classes worked near flawlessly.
 # Link
-https://thoughtsinflight.github.io/updatedportfolio/
+    https://thoughtsinflight.github.io/updatedportfolio/
